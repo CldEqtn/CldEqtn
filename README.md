@@ -1,8 +1,6 @@
 ## Hi!
 
-I'm Guilherme, a starting web developer from Brazil.
-
-- 👨‍💼 Working at Praxis, a junior enterprise
+I'm Guilherme, a starting developer from Brazil.
 
 - 📚 Always seeking to learn more</p>
 
